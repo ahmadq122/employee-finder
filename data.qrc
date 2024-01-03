@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>employee_data/dep_mark.json</file>
+        <file>employee_data/dep_prod.json</file>
+        <file>employee_data/dep_rnd.json</file>
+        <file>task.txt</file>
+    </qresource>
+</RCC>

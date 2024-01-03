@@ -1,0 +1,47 @@
+{
+	"department": "R&D",
+	"employee": [
+	    {
+            "name": "Solihin",
+            "job_title": "Software Engineer",
+            "position_level": "2",
+			"employment_status": "full-time"
+        },
+		{
+            "name": "Anjani",
+            "job_title": "Junior Software Engineer",
+            "position_level": "1",
+			"employment_status": "contract"
+        },
+		{
+            "name": "Agustin",
+            "job_title": "Senior Tester",
+            "position_level": "3",
+			"employment_status": "full-time"
+        },
+		{
+            "name": "Petter Mon",
+            "job_title": "Project Manager",
+            "position_level": "5",
+			"employment_status": "casual"
+        },
+		{
+            "name": "Jessica",
+            "job_title": "Senior Software Engineer",
+            "position_level": "3",
+			"employment_status": "contract"
+        },
+		{
+            "name": "Diah Iswari",
+            "job_title": "Principal Engineer",
+            "position_level": "4",
+			"employment_status": "contract"
+        },
+		{
+            "name": "Visvam Purusa",
+            "job_title": "Scrum Master",
+            "position_level": "5",
+			"employment_status": "contract"
+        }
+	]
+}

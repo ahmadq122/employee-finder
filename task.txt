@@ -1,0 +1,14 @@
+Create console application in C++ that filter and print employee data based on json inside folder "employee_data". The filter is based on employee position level, their job title, employment status, department name, and their name.
+Example of menu option:
+Choose the filter using option number
+1. Position level
+2. Job title
+3. Employment status
+4. Department
+5. Name
+
+Example:
+First input: 1
+Output: Please enter position level
+Second input: 5
+Output: [show employee with position level 5]

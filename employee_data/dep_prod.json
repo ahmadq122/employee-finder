@@ -1,0 +1,47 @@
+{
+	"department": "Production",
+	"employee": [
+		{
+            "name": "Reinald Sahaja",
+            "job_title": "Production Manager",
+            "position_level": "5",
+			"employment_status": "contract"
+        },
+		{
+            "name": "Nguyen Hon",
+            "job_title": "Line coordinator",
+            "position_level": "4",
+			"employment_status": "full-time"
+        },
+		{
+            "name": "Abraham Lingardi",
+            "job_title": "Operator",
+            "position_level": "2",
+			"employment_status": "part-time"
+        },
+		{
+            "name": "Sukerti",
+            "job_title": "Junior Operator",
+            "position_level": "1",
+			"employment_status": "part-time"
+        },
+		{
+            "name": "Riyadi Soteer",
+            "job_title": "Quality Assurance",
+            "position_level": "3",
+			"employment_status": "full-time"
+        },
+		{
+            "name": "Mahmudi",
+            "job_title": "Procurement",
+            "position_level": "3",
+			"employment_status": "full-time"
+        },
+		{
+            "name": "Ratih Jiwandari",
+            "job_title": "Cleaner",
+            "position_level": "1",
+			"employment_status": "casual"
+        }
+	]
+}

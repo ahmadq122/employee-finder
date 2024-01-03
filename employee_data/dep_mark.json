@@ -1,0 +1,35 @@
+{
+	"department": "Marketing",
+	"employee": [
+		{
+            "name": "Safri Samduk",
+            "job_title": "Chief Marketing Officer",
+            "position_level": "5",
+			"employment_status": "contract"
+        },
+		{
+            "name": "Helen Agarwal",
+            "job_title": "Marketing Coordinator",
+            "position_level": "4",
+			"employment_status": "casual"
+        },
+		{
+            "name": "Jarwo Likitung",
+            "job_title": "Marketing Assistant",
+            "position_level": "1",
+			"employment_status": "part-time"
+        },
+		{
+            "name": "Dedi Apriadi",
+            "job_title": "Marketing Intern",
+            "position_level": "1",
+			"employment_status": "part-time"
+        },
+		{
+            "name": "Lambda Aprianti",
+            "job_title": "Help Desk",
+            "position_level": "1",
+			"employment_status": "full-time"
+        }
+	]
+}
